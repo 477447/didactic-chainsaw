@@ -1,1 +1,6 @@
 # didactic-chainsaw
+*
+.agdai
+       
+       MAlonzo / **
+       
